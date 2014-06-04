@@ -1,3 +1,8 @@
+# Personal Fixes:
+
+ Avoid index pattern/default changes
+
+
 # Kibana
 
 __NOTE__: You have reached the Kibana 3 repository.

@@ -1,6 +1,8 @@
 # Personal Fixes:
 
- Avoid index pattern/default changes
+ Avoid index pattern/default changes. Do not forget to edit base dashboards with correct indexes.
+ 
+ Next version: Same fixes using CSS vs hardcoded.
 
 
 # Kibana

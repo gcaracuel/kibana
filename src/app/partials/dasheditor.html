@@ -66,7 +66,7 @@
         </div>
         <div class="editor-option" ng-show="dashboard.current.failover || dashboard.current.index.interval == 'none'">
           <h6>Default Index <small ng-show="dashboard.current.index.interval != 'none'">If index not found</small></h6>
-          <input type="text" class="input-medium" ng-model="dashboard.current.index.default">
+          <input disabled  type="text" class="input-medium" ng-model="dashboard.current.index.default">
         </div>
         <div class="editor-option">
           <h6>Preload Fields <i class="icon-question-sign" bs-tooltip="'Preload available fields for the purpose of autocomplete. Turn this off if you have many fields'"></i></h6>
